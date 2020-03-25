@@ -1,0 +1,9 @@
+message: Hello World in Production
+
+server.port: 8083
+
+db:
+  connection: connection-to-real-data
+  host: real
+  name: data
+  port: 3306

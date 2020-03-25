@@ -1,0 +1,14 @@
+message: Hello World
+server.port: 8084
+
+db:
+  connection: connection
+  host: host
+  name: name
+  port: 3306
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
