@@ -1,6 +1,6 @@
 message: Hello World in Production
 
-server.port: 8889
+server.port: 8888
 
 db:
   connection: connection-to-real-data

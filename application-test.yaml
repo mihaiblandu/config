@@ -7,7 +7,7 @@ spring:
             uri:
     profiles.active: test
 
-server.port: 8889
+server.port: 8888
 
 db:
   connection: connection-to-test
