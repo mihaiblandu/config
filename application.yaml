@@ -1,5 +1,5 @@
 message: Hello World
-server.port: 8888
+server.port: 8889
 
 db:
   connection: connection
